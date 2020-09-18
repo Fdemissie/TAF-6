@@ -1,3 +1,3 @@
 # TAF-6
 
-Selenium - Python(unittest) POM test Automation framework 
+Simple Selenium - Python(unittest) PageObjectModel(POM) test Automation framework 
